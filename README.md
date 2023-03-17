@@ -1,3 +1,4 @@
+This project is just for the challenge since i am still do not have valid links to make this properti
 # 02 Advanced CSS: Portfolio
 
 ## Your Task
